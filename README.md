@@ -5,11 +5,15 @@ Portfolio of data science and econometric projects completed for academic and se
 
 - ### Economics & Network Analysis
 
-	- [Zipf's Law and US Metro Population Growth - Notebook](https://nbviewer.jupyter.org/github/Jaseibert/Zipfs_Law_Population_Growth/blob/master/Notebook.ipynb) : A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning. [Github](https://github.com/Jaseibert/Zipfs_Law_Population_Growth) 
+	- [Zipf's Law and US Metro Population Growth](https://nbviewer.jupyter.org/github/Jaseibert/Zipfs_Law_Population_Growth/blob/master/Notebook.ipynb) : A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning. [Github](https://github.com/Jaseibert/Zipfs_Law_Population_Growth) 
   
-  - [Federal - Package](https://github.com/Jaseibert/Federal) : This is a simple package built on top of pandas datareader to    make it easier to pull in Economic Data from the Federal Reserve in St. Louis's Federal Reserve Economic Data (FRED) tool. 
+  - [Federal (Module)2](https://github.com/Jaseibert/Federal) : This is a simple package built on top of pandas datareader to    make it easier to pull in Economic Data from the Federal Reserve in St. Louis's Federal Reserve Economic Data (FRED) tool. 
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
+   - [Network Analysis of Game of Thrones Characters](https://nbviewer.jupyter.org/github/Jaseibert/Network-Analysis-Game-of-Thrones/blob/master/notebook.ipynb) : This was a fun project where different network theory concepts such as degree and betweenness centrality, along with the pagerank algorithm to analyze the co-occurrence network of Characters within the GOT books. (Datacamp-Based Project) [Github](https://github.com/Jaseibert/Network-Analysis-Game-of-Thrones) 
+ 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Networkx_ 
+	
+	https://nbviewer.jupyter.org/github/Jaseibert/Network-Analysis-Game-of-Thrones/blob/master/notebook.ipynb
 	
 - ### Supervised & Unsupervised Models
 
