@@ -10,14 +10,23 @@ Portfolio of data science and econometric projects completed for academic and se
   - [Federal - Package](https://github.com/Jaseibert/Federal) : This is a simple package built on top of pandas datareader to    make it easier to pull in Economic Data from the Federal Reserve in St. Louis's Federal Reserve Economic Data (FRED) tool. 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
-
-- ### GeoSpatial Analysis
+	
+- ### Supervised & Unsupervised Models
 
 	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.
   
   - [GeospatialPresentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation
  
-	_Tools: folium, geoPandas_
+	_Tools: sklearn, scipy_
+
+
+- ### GeoSpatial Analysis
+
+	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.
+  
+  - [Geospatial Presentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation
+ 
+	_Tools: folium, geoPandas, geopy_
 
 - ### Data Analysis and Visualisation
 
@@ -27,7 +36,15 @@ Portfolio of data science and econometric projects completed for academic and se
 	- [2016 US General Election Poll Data Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
 	- [911 Calls - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Seaborn and Matplotlib_
+	
+- ### Deep Learning 
+
+	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.
+  
+  - [GeospatialPresentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation
+ 
+	_Tools: sklearn, scipy_
 
 I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
 
