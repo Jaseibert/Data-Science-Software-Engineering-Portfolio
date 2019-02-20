@@ -25,23 +25,6 @@ Portfolio of data science and econometric projects completed for academic and se
  
 	_Tools: folium, geoPandas, geopy_
 
-	
-- ### Supervised & Unsupervised Models
-
-	- [Spotify Recommendation Engine](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): 
-  
-	_Tools: sklearn, scipy_
-
-- ### Data Analysis and Visualisation
-
-		
-	_Tools: Pandas, Seaborn and Matplotlib_
-	
-- ### Deep Learning 
-
- 
-	_Tools: sklearn, scipy_
-
-I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
+I also dabble in all other kinds of technology. You can find a general portfolio covering my some of my past work [here](https://jeremyseibert.com).
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at jaseibert5@gmail.com. 
