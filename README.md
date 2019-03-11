@@ -1,5 +1,5 @@
-# Data-Science-Portfolio
-Portfolio of data science and econometric projects completed for academic and self-learning purposes. Each of the notebooks will take you to an Jupyter nbviewer, and the proceeding link will take you to the Github Repository directly. 
+# Data-Science-&-Software-Engineering-Portfolio
+Portfolio of data science, econometric, and python package building projects completed for academic and self-learning purposes. Each of the notebooks will take you to an Jupyter nbviewer, and the proceeding link will take you to the Github Repository directly.
 
 ## Contents
 
