@@ -21,7 +21,7 @@ Portfolio of data science, econometric, and python package building projects com
 
 	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.
   
-  - [Geospatial Presentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation
+  - [Geospatial Presentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation. It covers several unique geospatial packages in the python ecosystem.
  
 	_Tools: folium, geoPandas, geopy_
 
