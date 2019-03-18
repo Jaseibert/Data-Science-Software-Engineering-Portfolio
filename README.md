@@ -1,5 +1,5 @@
 # Data Science & Software Engineering Portfolio
-Portfolio of data science, econometric, and python package building projects completed for academic and self-learning purposes. Each of the notebooks will take you to an Jupyter nbviewer, and the proceeding link will take you to the Github Repository directly.
+Portfolio of data science, econometric, and python package building projects completed for academic and self-learning purposes. Each of the notebooks will take you to an Jupyter NBViewer, and the proceeding link will take you to the Github Repository directly.
 
 ## Contents
 
@@ -24,6 +24,11 @@ Portfolio of data science, econometric, and python package building projects com
   - [Geospatial Presentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation. It covers several unique geospatial packages in the python ecosystem.
  
 	_Tools: folium, geoPandas, geopy_
+
+- ###  Machine Learning & Data Engineering
+	
+	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use the Spotify API to gather data from the Spotify API.
+	
 
 I also dabble in all other kinds of technology. You can find a general portfolio covering my some of my past work [here](https://jeremyseibert.com).
 
