@@ -17,6 +17,8 @@ Portfolio of data science, econometric, and python package building projects com
 
 	- [Spaceman3D (Package)](https://github.com/Jaseibert/SpaceMan): Spaceman3D is a python package that accomplishes several unique tasks for Python users working within the field of Astrodynamics. The package gives users the ability to parse satellite Two-Line Element (TLE) Data into its Ballistic, Keplerian, and Identifying elements. Beyond, this Spaceman3D uses a Matplotlib 3D plotting toolkit to plot the trajectory and orbit of the satellites relative to the earth.[PyPi](https://pypi.org/project/Spaceman3D/)
 	
+	_Tools: Numpy_
+	
 - ### GeoSpatial Analytics
 
 	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.
@@ -29,7 +31,8 @@ Portfolio of data science, econometric, and python package building projects com
 	
 	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use the Spotify API to gather data from the Spotify API.
 	
-
+	_Tools: sklearn, Keras, Pandas, etc._
+	
 I also dabble in all other kinds of technology. You can find a general portfolio covering my some of my past work [here](https://jeremyseibert.com).
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at jaseibert5@gmail.com. 
