@@ -15,7 +15,7 @@ Portfolio of data science, econometric, and python package building projects com
 
 - ### Astrodynamics & Orbital Mechanics
 
-	- [Spaceman3D (Package)](https://github.com/Jaseibert/SpaceMan): Spaceman3D is a python package that accomplishes several unique tasks for Python users working within the field of Astrodynamics. The package gives users the ability to parse satellite Two-Line Element (TLE) Data into its Ballistic, Keplerian, and Identifying elements. Beyond, this Spaceman3D uses a Matplotlib 3D plotting toolkit to plot the trajectory and orbit of the satellites relative to the earth.[PyPi](https://pypi.org/project/Spaceman3D/)
+	- [Spaceman3D (Package)](https://github.com/Jaseibert/SpaceMan): Spaceman3D is a python package that accomplishes several unique tasks for Python users working within the field of Astrodynamics. The package gives users the ability to parse satellite Two-Line Element (TLE) Data into its Ballistic, Keplerian, and Identifying elements. Beyond, this Spaceman3D uses a Matplotlib 3D plotting toolkit to plot the trajectory and orbit of the satellites relative to the earth `Pip install spaceman3D`.[PyPi](https://pypi.org/project/Spaceman3D/)
 	
 	_Tools: Numpy_
 	
