@@ -21,15 +21,17 @@ Portfolio of data science, econometric, and python package building projects com
 	
 - ### GeoSpatial Analytics
 
-	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.
+	- [Geospatial and Exploratory Analysis of Starbucks Locations](https://nbviewer.jupyter.org/github/Jaseibert/Starbucks_GeoSpatial_Analysis/blob/master/Notebook.ipynb): Exploratory Analysis of the Starbuck's Store Directory dataset, with a build of a mapping tool that plots each store within a user-defined city our country. The mapping tool that I use is folium, a python wrapper on Leaflet.js.[Github](https://github.com/Jaseibert/Starbucks_GeoSpatial_Analysis) 
   
-  - [Geospatial Presentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation. It covers several unique geospatial packages in the python ecosystem.
+  - [Geospatial Presentation](https://nbviewer.jupyter.org/github/Jaseibert/GeospatialPresentation/blob/master/Geospatial-Analysis-Intro.ipynb): This is the notebook behind my May 15th Greater Evansville Data Science Presentation. It covers several unique geospatial packages in the python ecosystem.[Github](https://github.com/Jaseibert/GeospatialPresentation) 
  
 	_Tools: folium, geoPandas, geopy_
 
 - ###  Machine Learning & Data Engineering
 	
-	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use the Spotify API to gather data from the Spotify API.
+	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use SpotiPy to gather data from the Spotify API.[Github](https://github.com/Jaseibert/Spotipy_and_Spotify_API) 
+	
+	-[Spotify Song Prediction](https://nbviewer.jupyter.org/github/Jaseibert/Spotify_Song_Predictions/blob/master/Notebook.ipynb): This notebook is the exploration between two Spotify playlists, one filled with songs that are liked, and the other filled with songs that are disliked. These playlists are populated with songs built around the preferences of my beautiful fiancé. Our goal here will be to use several machine learning algorithms, to predict whether songs will be liked, and which songs will be disliked. [Github](https://github.com/Jaseibert/Spotify_Song_Predictions) 
 	
 	_Tools: sklearn, Keras, Pandas, etc._
 	
