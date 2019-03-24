@@ -3,15 +3,15 @@ Portfolio of data science, econometric, and python package building projects com
 
 ## Contents
 
-- ### Economics & Network Analysis
+- ### Economics & Mathematics
 
    - [Zipf's Law and US Metro Population Growth](https://nbviewer.jupyter.org/github/Jaseibert/Zipfs_Law_Population_Growth/blob/master/Notebook.ipynb) : A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning. [Github](https://github.com/Jaseibert/Zipfs_Law_Population_Growth) 
   
    - [Federal (Module)](https://github.com/Jaseibert/Federal): This is a simple package built on top of pandas datareader to    make it easier to pull in Economic Data from the Federal Reserve in St. Louis's Federal Reserve Economic Data (FRED) tool. `Pip install Federal`. [PyPi](https://pypi.org/project/Federal/). 
 
-   - [Network Analysis of Game of Thrones Characters](https://nbviewer.jupyter.org/github/Jaseibert/Network-Analysis-Game-of-Thrones/blob/master/notebook.ipynb) : This was a fun project where different network theory concepts such as degree and betweenness centrality, along with the pagerank algorithm to analyze the co-occurrence network of Characters within the GOT books. (Datacamp-Based Project) [Github](https://github.com/Jaseibert/Network-Analysis-Game-of-Thrones) 
- 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Networkx_ 
+   - [The Mathematics of the Powerball Lottery](https://github.com/UrbanScientist/1_Mathematical_Understanding_of_Powerball/blob/master/1_Mathematical_Understanding_of_the_Powerball.ipynb): This is the notebook associated with the December, 27th 2018 Urban Scientist Blog Post. Check out the Urban Scientist [www.urbanscientist.cool](https://urbanscientist.cool/articles/18/Mathematics-of-the-Powerball-blog/). 
+   
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
 
 - ### Astrodynamics & Orbital Mechanics
 
@@ -33,7 +33,9 @@ Portfolio of data science, econometric, and python package building projects com
 	
 	- [Spotify Song Prediction](https://nbviewer.jupyter.org/github/Jaseibert/Spotify_Song_Predictions/blob/master/Notebook.ipynb): This notebook is the exploration between two Spotify playlists, one filled with songs that are liked, and the other filled with songs that are disliked. These playlists are populated with songs built around the preferences of my beautiful fiancé. Our goal here will be to use several machine learning algorithms, to predict whether songs will be liked, and which songs will be disliked. [Github](https://github.com/Jaseibert/Spotify_Song_Predictions) 
 	
-	_Tools: sklearn, Keras, Pandas, etc._
+	- [Network Analysis of Game of Thrones Characters](https://nbviewer.jupyter.org/github/Jaseibert/Network-Analysis-Game-of-Thrones/blob/master/notebook.ipynb) : This was a fun project where different network theory concepts such as degree and betweenness centrality, along with the pagerank algorithm to analyze the co-occurrence network of Characters within the GOT books. (Datacamp-Based Project) [Github](https://github.com/Jaseibert/Network-Analysis-Game-of-Thrones) 
+	
+	_Tools: sklearn, Keras, Pandas,, Networkx, etc._
 	
 I also dabble in all other kinds of technology. You can find a general portfolio covering my some of my past work [here](https://jeremyseibert.com).
 
