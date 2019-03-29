@@ -28,6 +28,8 @@ Portfolio of data science, econometric, and python package building projects com
 	_Tools: folium, geoPandas, geopy_
 
 - ###  Machine Learning & Data Engineering
+
+	- [Qualtrics API](https://github.com/Jaseibert/QualtricsAPI) : This repository contains a python module that wraps on top of the Qualtrics Survey Softwares API, specifically for automating the collection of the responses from Qualtrics surveys.
 	
 	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use SpotiPy to gather data from the Spotify API.[Github](https://github.com/Jaseibert/Spotipy_and_Spotify_API) 
 	
