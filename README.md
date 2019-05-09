@@ -14,7 +14,7 @@ Portfolio of data science, econometric, and software engineering projects comple
 	
 - ### Economics & Mathematics
 
-   - [Zipf's Law and US Metro Population Growth](https://nbviewer.jupyter.org/github/Jaseibert/Zipfs_Law_Population_Growth/blob/master/Notebook.ipynb) : A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning. [Github](https://github.com/Jaseibert/Zipfs_Law_Population_Growth) 
+   - [Zipf's Law and US Metro Population Growth](https://nbviewer.jupyter.org/github/Jaseibert/Zipfs_Law_Population_Growth/blob/master/Notebook.ipynb): This is a demonstration of the Zipfs Law (i.e. the Rank-Size Rule) using the 2017 Population Estimates supplied from the U.S. Census Bureau. [Github](https://github.com/Jaseibert/Zipfs_Law_Population_Growth) 
 
    - [The Mathematics of the Powerball Lottery](https://github.com/UrbanScientist/1_Mathematical_Understanding_of_Powerball/blob/master/1_Mathematical_Understanding_of_the_Powerball.ipynb): This is the notebook associated with the December, 27th 2018 Urban Scientist Blog Post. Check out the Urban Scientist [www.urbanscientist.cool](https://urbanscientist.cool/articles/18/Mathematics-of-the-Powerball-blog/). 
    
