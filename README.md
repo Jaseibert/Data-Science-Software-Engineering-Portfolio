@@ -33,9 +33,7 @@ Portfolio of data science, econometric, and software engineering projects comple
 	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use SpotiPy to gather data from the Spotify API. [Github](https://github.com/Jaseibert/Spotipy_and_Spotify_API) 
 	
 	- [Spotify Song Prediction](https://nbviewer.jupyter.org/github/Jaseibert/Spotify_Song_Predictions/blob/master/Notebook.ipynb): This notebook is the exploration between two Spotify playlists, one filled with songs that are liked, and the other filled with songs that are disliked. These playlists are populated with songs built around the preferences of my beautiful fiancé. Our goal here will be to use several machine learning algorithms, to predict whether songs will be liked, and which songs will be disliked. [Github](https://github.com/Jaseibert/Spotify_Song_Predictions) 
-	
-	- [Network Analysis of Game of Thrones Characters](https://nbviewer.jupyter.org/github/Jaseibert/Network-Analysis-Game-of-Thrones/blob/master/notebook.ipynb) : This was a fun project where different network theory concepts such as degree and betweenness centrality, along with the pagerank algorithm to analyze the co-occurrence network of Characters within the GOT books. (Datacamp-Based Project) [Github](https://github.com/Jaseibert/Network-Analysis-Game-of-Thrones) 
-	
+
 	_Tools: sklearn, Keras, Pandas, Networkx, etc._
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at jaseibert5@gmail.com. 
