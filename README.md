@@ -36,4 +36,10 @@ Portfolio of data science, econometric, and software engineering projects comple
 
 	_Tools: sklearn, Keras, Pandas, Networkx, etc._
 
+- ###  Web Crawling & Scraping
+	
+	- [Glassdoor Crawler](https://github.com/Jaseibert/Glassdoor_Crawler/): This repository contains a python package that aggregates specific job listings from glassdoor.com, ranks them according to specified user preferences, and then identifies the keywords/phrases used in the job description.
+	
+	_Tools: Requests, Selenium, Pandas, NLTK, etc._
+
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at jaseibert5@gmail.com. 
