@@ -5,14 +5,17 @@ Portfolio of data science, econometric, and software engineering projects comple
 
 
 - ###  Software Engineering
+	- [Loop](https://www.looop.cool): 
+	
+	- [Seibert Industries](https://seibert.industries):
+	
+	- [QualtricsAPI](https://github.com/Jaseibert/QualtricsAPI) : Qualtrics is an awesome company that builds software which gives users the ability to collect online data through online surveys. This python package, exists as a wrapper on top of the Qualtrics API. This package's primary goal is to be a super convenient way for python users to ingest, or upload their data from Qualtrics to their development environment, and vice versa. I do want to make point to say this package is not affiliated with Qualtrics, and is an open-source project.
 	
 	- [Spaceman3D](https://github.com/Jaseibert/SpaceMan): Spaceman3D is a python package that accomplishes several unique tasks for Python users working within the field of Astrodynamics. The package gives users the ability to parse satellite Two-Line Element (TLE) Data into its Ballistic, Keplerian, and Identifying elements. Beyond, this Spaceman3D uses a Matplotlib 3D plotting toolkit to plot the trajectory and orbit of the satellites relative to the earth `Pip install spaceman3D`. [PyPi](https://pypi.org/project/Spaceman3D/)
 	
 	 - [Federal](https://github.com/Jaseibert/Federal): This is a simple package built on top of pandas datareader to    make it easier to pull in Economic Data from the Federal Reserve in St. Louis's Federal Reserve Economic Data (FRED) tool. `Pip install Federal`. [PyPi](https://pypi.org/project/Federal/). 
-	 
-	 - [QualtricsAPI](https://github.com/Jaseibert/QualtricsAPI) : Qualtrics is an awesome company that builds software which gives users the ability to collect online data through online surveys. This python package, exists as a wrapper on top of the Qualtrics API. This package's primary goal is to be a super convenient way for python users to ingest, or upload their data from Qualtrics to their development environment, and vice versa. I do want to make point to say this package is not affiliated with Qualtrics, and is an open-source project.
-	 
-	 - [Seibert Industries](https://seibert.industries)
+
+
 	 
 	 _Tools & Languages: React, JavaScript, TypeScript, Python_ 
 	
