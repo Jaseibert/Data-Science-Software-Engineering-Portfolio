@@ -5,9 +5,9 @@ Portfolio of data science, econometric, and software engineering projects comple
 
 
 - ###  Software Engineering
-	- [Loop](https://www.looop.cool): 
+	- Loop: (In-Progress) Loop is a platform for local storytellers to engage with their communities through quick stories. We are building the back-end infrastructure on top of GCP and Firebase, and front-end is being built using the React. This site is currently not live, but our launch date is targeted for December 2020.
 	
-	- [Seibert Industries](https://seibert.industries):
+	- [Sorting Algorithm Visualizer](https://www.jeremyseibert.com/projects/sorting-visualizer) This is a simple a sorting algorithm visualizer. Currently it has the quick sort and bubble sort algorithms implemented. Selection sort, insertion sort, heap sort, and merge sort algorithms are in the build pipeline. 
 	
 	- [QualtricsAPI](https://github.com/Jaseibert/QualtricsAPI) : Qualtrics is an awesome company that builds software which gives users the ability to collect online data through online surveys. This python package, exists as a wrapper on top of the Qualtrics API. This package's primary goal is to be a super convenient way for python users to ingest, or upload their data from Qualtrics to their development environment, and vice versa. I do want to make point to say this package is not affiliated with Qualtrics, and is an open-source project.
 	
