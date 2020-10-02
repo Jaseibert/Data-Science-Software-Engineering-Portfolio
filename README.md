@@ -5,6 +5,8 @@ Portfolio of data science, econometric, and software engineering projects comple
 
 
 - ###  Software Engineering
+	- [Jeremy Seibert website](https://www.jeremyseibert.com) Check out my personal website for more information about myself, such as my resume, background and more about my projects. I built the site using React, Framer-Motion, and Materialize-CSS!
+	
 	- Loop: (In-Progress) Loop is a platform for local storytellers to engage with their communities through quick stories. We are building the back-end infrastructure on top of GCP and Firebase, and front-end is being built using the React. This site is currently not live, but our launch date is targeted for December 2020.
 	
 	- [Sorting Algorithm Visualizer](https://www.jeremyseibert.com/projects/sorting-visualizer) This is a simple a sorting algorithm visualizer. Currently it has the quick sort and bubble sort algorithms implemented. Selection sort, insertion sort, heap sort, and merge sort algorithms are in the build pipeline. 
