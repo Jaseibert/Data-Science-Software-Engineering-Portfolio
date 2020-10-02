@@ -17,7 +17,7 @@ Portfolio of data science, econometric, and software engineering projects comple
 
 
 	 
-	 _Tools & Languages: React, JavaScript, TypeScript, Python_ 
+	 _Tools & Languages: JavaScript, TypeScript, Python_ 
 	
 - ### Economics & Mathematics
 
