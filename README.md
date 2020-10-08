@@ -23,6 +23,8 @@ Portfolio of data science, econometric, and software engineering projects comple
 	
 - ### Economics & Mathematics
 
+  - [Modeling Production Efficiency: Using the Edgeworth Box](https://nbviewer.jupyter.org/github/Jaseibert/Computational-Economics/blob/main/Edgeworth%20Box.ipynb): This is a demonstration of the how to model the Pareto Effecient production Capital and Labor outcomes using the Edgeworth box and MicroEconomic Theory. [Github](https://github.com/Jaseibert/Computational-Economics/blob/main/Edgeworth%20Box.ipynb) 
+
    - [Zipf's Law and US Metro Population Growth](https://nbviewer.jupyter.org/github/Jaseibert/Zipfs_Law_Population_Growth/blob/master/Notebook.ipynb): This is a demonstration of the Zipfs Law (i.e. the Rank-Size Rule) using the 2017 Population Estimates supplied from the U.S. Census Bureau. [Github](https://github.com/Jaseibert/Zipfs_Law_Population_Growth) 
 
    - [The Mathematics of the Powerball Lottery](https://github.com/UrbanScientist/1_Mathematical_Understanding_of_Powerball/blob/master/1_Mathematical_Understanding_of_the_Powerball.ipynb): This is the notebook associated with the December, 27th 2018 Urban Scientist Blog Post. Check out the Urban Scientist [www.urbanscientist.cool](https://urbanscientist.cool/articles/18/Mathematics-of-the-Powerball-blog/). 
