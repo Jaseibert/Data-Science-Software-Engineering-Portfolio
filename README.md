@@ -43,7 +43,7 @@ Portfolio of Data science, Econometric, and Software Engineering projects comple
 	
 	- [Working with the Spotify API](https://nbviewer.jupyter.org/github/Jaseibert/Spotipy_and_Spotify_API/blob/master/Notebook.ipynb): This repository contains a notebook that explains how to use SpotiPy to gather data from the Spotify API. [Github](https://github.com/Jaseibert/Spotipy_and_Spotify_API) 
 	
-	- [Spotify Song Prediction](https://nbviewer.jupyter.org/github/Jaseibert/Spotify_Song_Predictions/blob/master/Notebook.ipynb): This notebook is the exploration between two Spotify playlists, one filled with songs that are liked, and the other filled with songs that are disliked. These playlists are populated with songs built around the preferences of my beautiful fiancé. Our goal here will be to use several machine learning algorithms, to predict whether songs will be liked, and which songs will be disliked. [Github](https://github.com/Jaseibert/Spotify_Song_Predictions) 
+	- [Spotify Song Prediction](https://nbviewer.jupyter.org/github/Jaseibert/Spotify_Song_Predictions/blob/master/Notebook.ipynb): This notebook is the exploration between two Spotify playlists, one filled with songs that are liked, and the other filled with songs that are disliked. These playlists are populated with songs built around my song preferences. Our goal here will be to use several machine learning algorithms, to predict whether songs will be liked, and which songs will be disliked. [Github](https://github.com/Jaseibert/Spotify_Song_Predictions) 
 
 	_Tools: sklearn, Keras, Pandas, Networkx, etc._
 
